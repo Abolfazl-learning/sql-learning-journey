@@ -1,5 +1,3 @@
-# sql-learning-journey
-
 # SQL Learning Journey
 
 My personal repository for learning SQL.
